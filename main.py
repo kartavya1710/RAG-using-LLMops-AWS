@@ -16,7 +16,7 @@ payload= {
 }
 
 body = json.dumps(payload)
-model_id = "meta.llama2-70b-chat-v1"
+model_id = "meta.llama3-70b-instruct-v1:0"
 
 response = bedrock.invoke_model(
     body=body,
