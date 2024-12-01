@@ -1,0 +1,9 @@
+langchain
+langchainhub
+bs4
+tiktoken
+openai
+langchain_community
+langchain_aws
+awscli
+langchain-chroma
